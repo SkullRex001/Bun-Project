@@ -1,15 +1,3 @@
-# bun
+**Plan To Deploy**
 
-To install dependencies:
-
-```bash
-bun install
-```
-
-To run:
-
-```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v1.1.12. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+![Screenshot 2024-06-08 000318](https://github.com/SkullRex001/Bun-Project/assets/122201082/92270a98-d73d-472c-bc14-359ad5f15b97)
